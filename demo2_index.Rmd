@@ -1,6 +1,6 @@
 ---
 title: "The Secret of Duck Island:"
-subtitle: "Special Edition <br/> Part II"
+subtitle: "Special Edition <br/> Part I"
 author: 
 institute: 
 date: "July 2022"
@@ -112,13 +112,13 @@ See how far the rabbit hole goes...
 # **What** are the next steps
 This *riddle* will grant you access to the next step:
 
-> Ten Total Strokes,
+> Ten total strokes,
 
-> Nine Appearing Types,
+> Nine appearing types,
 
-> Six Summed First,
+> Six summed at first,
 
-> One Swift Swipe.
+> One swift swipe.
 
 ---
 # Good Luck
