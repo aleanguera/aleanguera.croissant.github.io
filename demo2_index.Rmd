@@ -51,7 +51,8 @@ Her input was:
 - Creative input
 - Made changes to the script at some points
 - Asked for SO MANY CUDDLES OMG
-![](stinky.JPG)
+---
+![](stinky.jpg)
 ---
 # Luna
 *Regional Manager*
@@ -59,7 +60,7 @@ Her input was:
 Her input was:
 - Drew the cars in the interactive story
 - Debugged most python errors
-- Added an easter egg with code
+- Added an Easter egg with code
 ---
 ![](luna.jpg)
 ---
@@ -94,7 +95,7 @@ His input was:
 
 - Definitely was NOT tricked to end always in the same ending
 - Definitely do NOT try every single alternative scenario to see if its true
-- **CALC**
+- I think there is something like 1 ending(s)
 
 ---
 # **Where** this ending will lead you
@@ -119,6 +120,8 @@ This *riddle* will grant you access to the next step:
 > Six summed at first,
 
 > One swift swipe.
+
+The link is on the next page.
 
 ---
 # Good Luck
