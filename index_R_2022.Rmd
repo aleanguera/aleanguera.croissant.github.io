@@ -1,0 +1,49 @@
+---
+title: "PY0795:"
+subtitle: "Yes, I did this on RStudio; <br/> Yes, I am sorry"
+author: 
+institute: 
+date: "November 2022"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+# Hello there...
+
+*Name:* Alejandro Anguera
+
+*Research interests:* Evolutionary and Forensic Psychology
+
+*Interesting fact:* PhD in the trash
+
+*Boring fact:* Toes
+---
+# **Research interests**
+
+*MRes Thesis:*
+Can dominance be detected in the visual periphery from male's walks?
+
+![](image.png)
+---
+# **Interesting fact**
+*PhD in the trash:* [Blogpost about it](https://aleanguera670932071.wordpress.com/2022/01/03/cheers-alejandro/)
+
+![](https://media.giphy.com/media/QVP7DawXZitKYg3AX5/giphy.gif)
+---
+# **Boring fact**
+
+*Toes*:
+
+I have an equal number of toes
+
+I am NOT including a picture of this one
+---
+# Thank you
+
+# Bread👍🏼
+![](https://media.giphy.com/media/L40WgedtcCz9Nabxwo/giphy.gif)
